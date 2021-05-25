@@ -1,6 +1,4 @@
 var assert = require('assert');
-var EJSCommon = require('ethereumjs-common');
-var EJSTx = require('ethereumjs-tx');
 var Basic = require('./sources/Basic');
 var utils = require('./helpers/test.utils');
 var Web3 = utils.getWeb3();
